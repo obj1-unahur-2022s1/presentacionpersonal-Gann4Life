@@ -8,6 +8,7 @@
 * Tener conocimiento sólido sobre la materia.
 * Mejorar como programador.
 * Compartir experiencias.
+* Dejar de sufrir :)
 
 ## Meme de cultura
 ![hehe](w3schools-my.gif)
