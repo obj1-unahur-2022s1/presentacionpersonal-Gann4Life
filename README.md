@@ -9,3 +9,6 @@
 * Mejorar como programador.
 * Conocer e interactuar con otros desarrolladores.
 * Dejar de sufrir :)
+
+## Mi increíble forma de aprender
+![hehe](w3schools-my.gif)
